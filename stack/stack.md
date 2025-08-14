@@ -2,7 +2,7 @@
 
 <pre style="font-family: monospace;">
 ┌───┐
-│ 3 │ <- top
+│ 3  <- in/out
 │ 2 │
 │ 1 │
 └───┘
